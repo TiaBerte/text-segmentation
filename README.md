@@ -2,7 +2,7 @@
 
 NLP project composed of two parts:
 * [Argumentative units detection and classification](https://github.com/TiaBerte/text-segmentation/blob/main/TextSegmentation.pdf);
-* [Argumentative essay summarization]https://github.com/TiaBerte/text-segmentation/blob/main/TextSummarization.pdf;
+* [Argumentative essay summarization](https://github.com/TiaBerte/text-segmentation/blob/main/TextSummarization.pdf);
 
 More details can be found in the linked pdf.
 
