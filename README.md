@@ -1,8 +1,10 @@
-# Feedback Prize - Evaluating Student Writing
+# Argumentative essay segmentation, classification and summarization
 
-Analyze argumentative writing elements from students grade 6-12
+NLP project composed of two parts:
+* [Argumentative units detection and classification](https://github.com/TiaBerte/text-segmentation/blob/main/TextSegmentation.pdf);
+* [Argumentative essay summarization]https://github.com/TiaBerte/text-segmentation/blob/main/TextSummarization.pdf;
 
-NLP project
+More details can be found in the linked pdf.
 
 # To run
 
